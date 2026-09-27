@@ -25,6 +25,26 @@ MISSION DATA → CALIBRATION → TIMING + SPECTRA → INFERENCE → PEER-REVIEWE
   <br><sub><b>Synthetic portfolio visualisation:</b> conceptual workflow, not observational data.</sub>
 </div>
 
+## Dynamic universe
+
+These loops connect the portfolio's software themes to the astrophysical systems being studied.
+
+<table>
+  <tr>
+    <td width="50%" align="center"><img src="assets/dynamic-universe/neutron-star-burst.gif" width="100%" alt="Synthetic thermonuclear burst on an accreting neutron star"><br><b>Thermonuclear neutron-star burst</b><br><sub>Runaway surface burning motivates burst timing, morphology, spectroscopy, and oscillation searches.</sub></td>
+    <td width="50%" align="center"><img src="assets/dynamic-universe/spinning-black-hole.gif" width="100%" alt="Synthetic rotating black hole and relativistic accretion flow"><br><b>Rotating black hole</b><br><sub>Relativistic accretion links high-energy observations to compact-object geometry and strong gravity.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="assets/dynamic-universe/neutron-star-jets.gif" width="100%" alt="Synthetic accreting neutron star with bipolar jets"><br><b>Neutron-star jets</b><br><sub>Accretion, magnetic fields, and outflows connect timing and spectral state evolution.</sub></td>
+    <td width="50%" align="center"><img src="assets/dynamic-universe/stellar-flare.gif" width="100%" alt="Synthetic magnetic flare above a stellar surface"><br><b>Magnetic stellar flare</b><br><sub>Transient detection and time-resolved analysis reveal rapid energy release in magnetised plasma.</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/dynamic-universe/accreting-binary.gif" width="70%" alt="Synthetic binary system transferring matter into an accretion disk"><br><b>Accreting compact binary</b><br><sub>Roche-lobe overflow feeds the disc–compact-object system that underpins the portfolio's mission pipelines, HIDs, timing, and spectroscopy.</sub></td>
+  </tr>
+</table>
+
+> **Visualisation note:** These are AI-created conceptual illustrations with subtle presentation animation. They are not numerical simulations, observational data, or scale-accurate physical models.
+
 ## Technical flight deck
 
 <p align="center">
