@@ -52,19 +52,25 @@ incoming photons  →  calibrated events  →  timing + spectra  →  tested phy
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://github.com/varunastronomy/varun-custom-nicer-pipeline"><img src="assets/projects/custom-pipeline.png" alt="Varun's Custom NICER Pipeline cover"></a>
       <h3 align="center">🛰️ Varun's Custom NICER Pipeline</h3>
       <p>A resilient observation-by-observation reduction workflow with explicit failure reporting and continuation logic.</p>
       <p align="center"><a href="https://github.com/varunastronomy/varun-custom-nicer-pipeline"><b>Open repository →</b></a></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
       <a href="https://github.com/varunastronomy/spectral-product-generation"><img src="assets/projects/spectral-products.png" alt="Spectral Product Generation cover"></a>
       <h3 align="center">📡 Spectral Product Generation</h3>
       <p>The next pipeline stage: source/background spectra and instrument-response products for scientific modelling.</p>
       <p align="center"><a href="https://github.com/varunastronomy/spectral-product-generation"><b>Open repository →</b></a></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="25%" valign="top">
+      <a href="https://github.com/varunastronomy/photonforge-xray-light-curves"><img src="assets/projects/photonforge.png" alt="PhotonForge X-ray light-curve pipeline cover"></a>
+      <h3 align="center">🤖 PhotonForge</h3>
+      <p>A concurrent, GTI-aware workflow for source, background, and net X-ray light-curve products.</p>
+      <p align="center"><a href="https://github.com/varunastronomy/photonforge-xray-light-curves"><b>Open repository →</b></a></p>
+    </td>
+    <td width="25%" valign="top">
       <a href="https://github.com/varunastronomy/burstscope-xray-characterisation"><img src="assets/projects/burstscope.png" alt="BurstScope cover"></a>
       <h3 align="center">⚡ BurstScope</h3>
       <p>Scientific characterisation of X-ray bursts, with carefully documented definitions, outputs, and interpretation boundaries.</p>
